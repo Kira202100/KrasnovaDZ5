@@ -1,0 +1,1 @@
+{"uuid":"67cda308-ee93-4f78-a074-c14c95840237","name":"lesson2.Tests.MySecondTest","children":["d6249400-1b7c-47d7-862a-78dc149abf89"],"befores":[],"afters":[{"name":"setDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648634806021,"stop":1648634806023}],"start":1648634782718,"stop":1648634806035}
